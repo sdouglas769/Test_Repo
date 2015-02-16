@@ -2,3 +2,4 @@ first
 git
 text
 file
+edited
